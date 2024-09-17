@@ -38,7 +38,7 @@ Welcome to my portfolio repository! Here, you'll find the details of the various
 ## 📫 Contact
 
 - **Email**: dhruvpuvar512@gmail.com
-- **LinkedIn**: [Dhruv Puvar](linkedin.com/in/dhruv-puvar-5286951ba/)
+- **LinkedIn**: [Dhruv Puvar](https://www.linkedin.com/in/dhruv-puvar-5286951ba/)
 - **GitHub**: [Dhruv-Puvar-512](https://github.com/Dhruv-Puvar-512)
 
 Feel free to reach out if you'd like to collaborate on a project, or just to connect!
